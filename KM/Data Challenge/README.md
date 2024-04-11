@@ -1,4 +1,5 @@
 # Data Challenge - Kernel Methods
+Nils Baillie and Abdoul-Hakim Ahamada
 
 ## Description
 
