@@ -25,7 +25,7 @@ In this project, we explore the effectiveness of kernel methods for classificati
 1. **Navigate to Project Directory**: Use the `cd` command to navigate to the project directory.
 
 ```bash
-cd "Downloads/Ahamada_Baillie_Code_and_Report"
+cd "Downloads\Hakim506 M2-MVA main KM-Data%20Challenge\KM\Data Challenge"
 ```
 
 2. **Execute Script**: Run the script using Python in your PowerShell terminal.
