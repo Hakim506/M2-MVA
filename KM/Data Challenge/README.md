@@ -18,7 +18,7 @@ In this project, we explore the effectiveness of kernel methods for classificati
   - numpy
   - cvxopt
   - importlib
-- Datasets and associated features downloaded from [Drive](https://drive.google.com/drive/folders/1Gr13MINUumyX-MxpJjo7UjON9R6lQ-cD?usp=sharing) and placed in the project directory
+- **Datasets and associated features downloaded from [Drive](https://drive.google.com/drive/folders/1Gr13MINUumyX-MxpJjo7UjON9R6lQ-cD?usp=sharing) and placed in the project directory**
 
 ## Usage
 
