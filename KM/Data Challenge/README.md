@@ -1,5 +1,5 @@
 # Data Challenge - Kernel Methods
-Nils Baillie and Abdoul-Hakim Ahamada
+Nils Baillie and Abdoul-Hakim Ahamada, M2 MVA, ENS Paris-Saclay
 
 ## Description
 
@@ -18,6 +18,7 @@ In this project, we explore the effectiveness of kernel methods for classificati
   - numpy
   - cvxopt
   - importlib
+- Datasets and associated features downloaded from [Drive](https://drive.google.com/drive/folders/1Gr13MINUumyX-MxpJjo7UjON9R6lQ-cD?usp=sharing) and placed in the project directory
 
 ## Usage
 
